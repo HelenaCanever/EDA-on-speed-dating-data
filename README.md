@@ -1,6 +1,6 @@
 # Exploratory Data Analysis on speed dating data 💘
 The dataset was obtained from the [Speed Dating Experiment dataset](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment) on Kaggle.
-The aim is to investigate the factors and biases influecing the choice of the individual participating to the speed dating settions
+The aim is to investigate the factors and biases influecing the choice of the individual participating to the speed dating sessions.
 
 From the Kaggle dataset description:
 
